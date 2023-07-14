@@ -9,5 +9,5 @@
 
 ### 20230714  [바로가기](https://github.com/eunjin413/SookTat-DLproject_NLP/tree/main/0714)
 - [곽은진](https://github.com/eunjin413/SookTat-DLproject_NLP/blob/main/0714/%ED%86%A0%ED%81%B0%ED%99%94%20%EC%8B%9C%EB%8F%84%20-%20%EA%B3%BD%EC%9D%80%EC%A7%84.ipynb)
-- [김서린](0714/딥러닝 데이터 전처리.ipynb)
+- [김서린](https://github.com/eunjin413/SookTat-DLproject_NLP/blob/main/0714/NLP%20%EC%A0%84%EC%B2%98%EB%A6%AC.ipynb)
 - [이서현](https://github.com/eunjin413/SookTat-DLproject_NLP/blob/main/0714/NLP%20%EC%A0%84%EC%B2%98%EB%A6%AC.ipynb)
