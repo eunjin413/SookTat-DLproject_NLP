@@ -7,7 +7,7 @@
 - DATA : [감정 분류를 위한 대화 음성 데이터셋](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&dataSetSn=263)
 - Members : 곽은진, 김서린, 이서현  
 
-### 20230714  [바로가기](https://github.com/chaehyounng/busriders_at_rushhour_prediction/tree/main/ProjectCode/20230104)
+### 20230714  [바로가기](https://github.com/eunjin413/SookTat-DLproject_NLP/tree/main/0714)
 - [곽은진]()
 - [김서린]()
 - [이서현]()
