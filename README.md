@@ -9,5 +9,5 @@
 
 ### 20230714  [바로가기](https://github.com/eunjin413/SookTat-DLproject_NLP/tree/main/0714)
 - [곽은진]()
-- [김서린]()
+- [김서린](0714/딥러닝 데이터 전처리.ipynb)
 - [이서현]()
