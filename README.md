@@ -15,4 +15,4 @@
 ### 20230731  [바로가기](https://github.com/eunjin413/SookTat-DLproject_NLP/tree/main/0731)
 - [곽은진]()
 - [김서린](https://github.com/eunjin413/SookTat-DLproject_NLP/blob/main/0731/%EB%94%A5%EB%9F%AC%EB%8B%9D%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%84%EC%B2%98%EB%A6%AC_%EA%B9%80%EC%84%9C%EB%A6%B0.ipynb)
-- [이서현]()
+- [이서현](https://github.com/eunjin413/SookTat-DLproject_NLP/blob/main/0731/LSTM.ipynb)
