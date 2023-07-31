@@ -12,7 +12,7 @@
 - [김서린](https://github.com/eunjin413/SookTat-DLproject_NLP/blob/main/0714/NLP%20%EC%A0%84%EC%B2%98%EB%A6%AC.ipynb)
 - [이서현](https://github.com/eunjin413/SookTat-DLproject_NLP/blob/main/0714/NLP%20%EC%A0%84%EC%B2%98%EB%A6%AC.ipynb)
 
-### 20230719  [바로가기](https://github.com/eunjin413/SookTat-DLproject_NLP/tree/main/0719)
+### 20230731  [바로가기](https://github.com/eunjin413/SookTat-DLproject_NLP/tree/main/0731)
 - [곽은진]()
 - [김서린]()
 - [이서현]()
