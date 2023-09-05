@@ -1,0 +1,15 @@
+#square1 { /*프린트기*/
+    text-align: center;
+    width: 800px;
+    height: 100px;
+    background-color: #F5F5F5;
+    box-shadow: 9px 5px 6px 5px gray;
+}
+
+#square2 { /*a4*/
+    text-align: center;
+    width: 600px;
+    height: 300px;
+    background-color: white;
+    border: 1px solid black;
+}

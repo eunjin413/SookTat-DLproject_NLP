@@ -1,0 +1,44 @@
+#center {
+text-align: center;
+}
+
+
+#box1 { /*폰 바탕*/
+    text-align: center;
+    width: 350px;
+    height: 600px;
+    background-color: #F5F5F5;
+    border-radius: 40px 40px 40px 40px;
+    box-shadow: 9px 5px 6px 5px gray;
+}
+
+#box2 { /*날짜와 시간*/
+    width: 115px;
+    height: 25px;
+    background-color: #D3D3D3;
+    border-radius: 40px 40px 40px 40px;
+    border-style: outset;
+}
+
+#box3 { /*배터리 잔량*/
+    width: 50px;
+    height: 25px;
+    background-color: #D3D3D3;
+    border-radius: 40px 40px 40px 40px;
+    border-style: outset;
+}
+
+#box4 { /*하단바 바탕*/
+    width: 350px;
+    height: 60px;
+    background-color: #D3D3D3;
+    border-radius: 0px 0px 40px 40px;
+}
+
+#box5 { /*하단바 버튼*/
+    width: 45px;
+    height: 45px;
+    background-color: white;
+    border-radius:40px 40px 40px 40px;
+    border-style: ridge;
+}
